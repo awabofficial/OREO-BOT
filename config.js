@@ -6,14 +6,14 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '249124702614', process.env.OWNER_NAME || 'Developer🤖', true],
+  ['249124702614', 'legend awab teto ❤️✨', true]
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || 'legend teto'
+global.botname = process.env.BOT_NAME || 'بوت الأسطورة'
  
  
  //Api's
@@ -26,14 +26,14 @@ global.APIKeys = {
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.stkpack = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkowner = process.env.OWNER_NAME || '© Shizo The Techie'
+global.stkpack = process.env.BOT_NAME || 'TETO-BOT 🥵'
+global.stkowner = process.env.OWNER_NAME || '© AWABPFFICIAL'
 
 //Watermark
-global.maker = process.env.MAKER || 'Made with ❤️ by OREO-BOT'
+global.maker = process.env.MAKER || 'Made with ❤️ by TETO-BOT'
 
 //global emojis
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _برد المنقة..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
@@ -41,7 +41,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 //management
-global.bug = '*!! Sorry 💢 !!*\nSomething went wrong 🌋'
+global.bug = '*!! ي حولي 💢 !!*\nشكلو في مشكلة 🌋'
 global.stop = '*!! 🎭 Unfortunately 💔 !!*\nBot system is not Responding 🙃'
 
 //TimeLines
